@@ -1,0 +1,10 @@
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\bin\Debug\Otec.exe.config
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\bin\Debug\Otec.exe
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\bin\Debug\Otec.pdb
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\obj\Debug\Otec.csproj.AssemblyReference.cache
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\obj\Debug\Otec.csproj.CoreCompileInputs.cache
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\obj\Debug\Otec.exe
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\obj\Debug\Otec.pdb
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\bin\Debug\OtecLibrary.dll
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\bin\Debug\OtecLibrary.pdb
+C:\Users\Seba-Atóm\source\repos\Otec\Otec\obj\Debug\Otec.csproj.CopyComplete

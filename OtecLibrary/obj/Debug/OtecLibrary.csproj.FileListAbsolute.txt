@@ -1,0 +1,6 @@
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\bin\Debug\OtecLibrary.dll
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\bin\Debug\OtecLibrary.pdb
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\obj\Debug\OtecLibrary.csproj.AssemblyReference.cache
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\obj\Debug\OtecLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\obj\Debug\OtecLibrary.dll
+C:\Users\Seba-Atóm\source\repos\Otec\OtecLibrary\obj\Debug\OtecLibrary.pdb
